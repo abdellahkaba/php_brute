@@ -1,6 +1,6 @@
 <?php require_once("header.php"); ?>
 <?php include("traitement_inscription.php") ; ?>
-<div class="container">
+    <div class="container">
         <div class="row-col-8">
             <form action="" method="post">
                 <?php if(isset($error)){echo '<p>'. $error . '</p>' ;} ?>

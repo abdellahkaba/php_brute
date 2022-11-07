@@ -1,4 +1,4 @@
 <?php include("header.php") ; ?>
 <?php include("verification_session.php"); ?>
 
-Page d'acceuil
+<h1>Bienvenu dans la page d'acceuil</h1>
